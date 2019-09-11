@@ -13,8 +13,8 @@ wb.open("https://www.instagram.com/khanshariqahmed/?hl=en") # personal profile
 
 from instapy_cli import client
 
-username = 'khanshariqahmed'
-password = 'Shariqkhan29!!'
+username = ''
+password = ''
 image = r'C:\Users\srkst\Desktop\project\python_practice\flaskenv\seleniumpy\photo.jpg'
 
 
